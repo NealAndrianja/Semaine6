@@ -1,0 +1,9 @@
+Etape pour manipuler BDD
+-connection
+-Préparation queries
+-Execution
+
+
+php -S localhost:8000 -t .   (-S: server, host, -t: target, directory)
+var_dump(phpinfo()); //info sur serveur
+var_dump(__DIR__); //info sur directory
